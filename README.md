@@ -16,6 +16,4 @@ The program runs in a loop until the user provides a strong password.
 - Provides clear feedback on missing requirements
 - Exits once a strong password is entered
 
----
 
-## 📂 Project Structure
